@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-ts-tw-eslint-styled-starter",
+  "name": "gatsby-ts-tw-styled-eslint-starter",
   "private": true,
   "description": "Gatsby starter with typescript, tailwindCSS, @emotion/styled and eslint.",
   "version": "1.0.0",
